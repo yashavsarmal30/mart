@@ -25,4 +25,4 @@ print("Index of 30 in numbers:", numbers.index(30))
 print("Index of 'cherry' in fruits:", fruits.index("cherry"))
 
 combined = numbers + (60, 70)
-print("\nCombined Tuple:", combined)
+print("\n Combined Tuple:", combined)
